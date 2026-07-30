@@ -1,8 +1,6 @@
 # 🚀 Missão Espacial - Computação Gráfica 2D com OpenGL
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
-![OpenGL](https://img.shields.io/badge/OpenGL-Core_Profile-5586A4?style=for-the-badge&logo=opengl)
-![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python) ![OpenGL](https://img.shields.io/badge/OpenGL-Core_Profile-5586A4?style=for-the-badge&logo=opengl) ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
 Este repositório contém o projeto **Missão Espacial**, um mini jogo 2D interativo inspirado na estética de jogos 8-bit. O projeto foi desenvolvido como aplicação prática dos conceitos teóricos da disciplina de Computação Gráfica, utilizando a linguagem Python e a API gráfica OpenGL (Core Profile).
 
