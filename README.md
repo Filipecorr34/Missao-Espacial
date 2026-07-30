@@ -73,15 +73,39 @@ A arquitetura do motor foi construída sobre as seguintes ferramentas:
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🤖 Como Executar o Projeto
 
-Certifique-se de ter o Python 3.12 e as bibliotecas instaladas na sua máquina.
+Certifique-se de ter o Python 3.12 instalado na sua máquina.
 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/SEU-USUARIO/Missao-Espacial.git
    cd Missao-Espacial
-2. Execute o programa principal:
+   
+2. Crie e ative um ambiente virtual (recomendado):
+
+   ```bash
+   python -m venv venv
+   # No Windows:
+   venv\Scripts\activate
+   # No Linux/Mac:
+   source venv/bin/activate
+3. Instale as dependências necessárias:
+
+   ```bash
+   pip install -r requirements.txt
+   
+4. Execute o simulador:
    ```bash
    python main.py
+   
+## 👨‍💻 Autores
+Projeto desenvolvido por:
+
+| Nome                  |  GitHub                                             |
+|-----------------------|-----------------------------------------------------|
+| **Adryele Oliveira**  |  [@elleoliveir](https://github.com/elleoliveir)     |
+| **Filipe Corrêa**     |  [@Filipecorr34](https://github.com/Filipecorr34)   |
+
+Desenvolvido para a disciplina de Computação Gráfica, ministrada pelo Prof. Dr. Fabrício Rossy.
    
