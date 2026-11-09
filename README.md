@@ -102,7 +102,7 @@ Projeto desenvolvido por:
 
 | Nome                  |  GitHub                                             |
 |-----------------------|-----------------------------------------------------|
-| **Adry Oliveira**  |  [@elleoliveir](https://github.com/elleoliveir)     |
+| **Adryele Oliveira**  |  [@elleoliveir](https://github.com/elleoliveir)     |
 | **Filipe Corrêa**     |  [@Filipecorr34](https://github.com/Filipecorr34)   |
 
 Desenvolvido para a disciplina de Computação Gráfica, ministrada pelo Prof. Dr. Fabrício Rossy.
